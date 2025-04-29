@@ -16,7 +16,7 @@ Website sederhana yang menampilkan ramalan masa depan secara acak dan lucu. Dibu
 ## 🚀 Cara Menjalankan
 1. Download atau clone repo ini:
    ```bash
-   git clone https://github.com/usernamekamu/prediksi-masa-depan.git
+   git clone https://github.com/izhar2005/prediksi-masa-depan.git
 Buka index.html di browser favoritmu (Chrome, Firefox, Edge, dll)
 
 Klik tombol ➡️ Lihat Prediksi ➡️ Baca dan tertawalah!
